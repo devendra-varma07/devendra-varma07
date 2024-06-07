@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devendra-varma07
 - 👀 I’m interested in DATA SCIENCE and SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning DATA SCIENCE
+- 🌱 I’m currently learning DATA SCIENCE and PROMPT ENGINEERING
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
